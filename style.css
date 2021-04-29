@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(177, 177, 177);
+}
+
+.manipulation {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    max-width: 500px;
+    width: 100%;
+    align-items: center;
+}
+
+.btn {
+    max-width: 200px;
+}
+
+.label {
+    width: 90%;
+    margin: 10px;
+    padding: 5px;
+    border-radius: 15px;
+    border: 2px solid rgb(21, 36, 170);
+}
+
+.table {
+    max-width: 500px;
+    width: 100%;
+    border: 2px solid black;
+    margin: 20px;
+}
+
+.table th {
+    background-color: rgb(102, 121, 121);
+}

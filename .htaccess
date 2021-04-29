@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Admin Panel. Only for admins"
+AuthUserFile C:\xampp\htdocs\AppMetricAdminPanel\.htpasswd
+Require valid-user
